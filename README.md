@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Publishing App using VueJS**
 
-- 📝 I regularly write articles on [rajanvijayan.com](rajanvijayan.com)
+- 📝 I regularly write articles on [rajanvijayan.com](https://rajanvijayan.com)
 
 - 📫 How to reach me **me@rajanvijayan.com**
 
