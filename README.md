@@ -1,25 +1,29 @@
-<h1 align="center">Hi 👋, I'm Rajan Vijayan</h1>
-<h3 align="center">Human | WordPress Developer | Community Organizer | Open source Contributor | Father | Husband</h3>
+### Hi there! 👋 I'm Rajan Vijayan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajanvijayan&label=Profile%20views&color=0e75b6&style=flat" alt="laxmariappan" /> </p>
+With over 10 years of experience in web development, I specialize in WordPress theme and plugin customization, website development, and maintenance. My expertise in HTML, CSS, and JavaScript, combined with a deep understanding of WordPress development best practices, enables me to deliver high-quality, user-friendly websites that are both visually stunning and technically sound.
 
-<p align="left"> <a href="https://twitter.com/rajanit2000" target="blank"><img src="https://img.shields.io/twitter/follow/rajanit2000?logo=twitter&style=for-the-badge" alt="Rajan Vijayan" /></a> </p>
+#### What I Bring to the Table:
 
-- 🔭 I’m currently working on **Publishing App using VueJS**
+- 🛠️ **Technical Skills**: Proficient in PHP, HTML, CSS, and JavaScript, with extensive experience in WordPress development.
+- 🎨 **Design Expertise**: Skilled in creating visually appealing and responsive designs using tools like Bootstrap, Foundation, and SASS.
+- 💡 **Problem-Solving Ability**: Thrive in fast-paced environments and excel in project management, ensuring timely and budget-friendly project delivery.
+- ⚙️ **Development Tools**: Familiar with advanced development tools like Composer, Docker, Gulp, and Webpack for optimizing and streamlining the development process.
+- 🔒 **Security Practices**: Well-versed in security best practices, including plugin and theme development, performance optimization, and server management.
+- 🔄 **Version Control**: Experienced in using Git for version control and implementing SEO best practices.
 
-- 📝 I regularly write articles on [rajanvijayan.com](https://rajanvijayan.com)
+#### Collaboration and Communication:
 
-- 📫 How to reach me **me@rajanvijayan.com**
+- 🤝 **Team Player**: Strong communication skills and ability to collaborate effectively with cross-functional teams.
+- 🚀 **Agile Methodology**: Familiar with Agile project management methodologies and tools like ClickUp, Trello, etc.
+- 🛡️ **Security Measures**: Understanding of hosting, server management, and server-side technologies such as Apache, Nginx, AWS, and WPEngine.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rajanit2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajanvijayan" height="30" width="40" /></a>
-<a href="https://fb.com/rajanit2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajanvijayan" height="30" width="40" /></a>
-<a href="https://instagram.com/iam_rajanvijayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajanvijayan" height="30" width="40" /></a>
-</p>
+#### Let's Connect:
 
-<h3 align="left">Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-</p>
+- 🌐 **Website**: [rajanvijayan.com](https://rajanvijayan.com)
+- 🐦 **Twitter**: [@rajanit2000](https://twitter.com/rajanit2000)
+- 📧 **Email**: me@rajanvijayan.com
+- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/rajanvijayan/)
 
-<p>Inspired from <a href="https://github.com/laxmariappan">laxmariappan</a>
+#### Let's Collaborate!
+
+Feel free to reach out if you're interested in collaborating on a project or just want to chat about WordPress development and best practices.
